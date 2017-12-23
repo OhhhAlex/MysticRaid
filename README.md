@@ -1,2 +1,4 @@
 # Mysticraid.github.io
-A website for MysticRaid
+A Website Created For MysticRaid!
+- [ ] Fully Developed
+- [X] Almost Finished
